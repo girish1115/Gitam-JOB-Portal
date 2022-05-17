@@ -1,0 +1,120 @@
+[30-Mar-2022 13:46:17 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/taurius/public_html/tpo/admin/email.php on line 7
+[30-Mar-2022 13:46:17 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/taurius/public_html/tpo/admin/email.php on line 51
+[30-Mar-2022 13:46:43 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/taurius/public_html/tpo/admin/email.php on line 7
+[30-Mar-2022 13:46:43 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/taurius/public_html/tpo/admin/email.php on line 51
+[30-Mar-2022 14:53:46 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/taurius/public_html/tpo/admin/email.php on line 7
+[30-Mar-2022 14:53:46 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/taurius/public_html/tpo/admin/email.php on line 51
+[30-Mar-2022 14:57:30 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/taurius/public_html/tpo/admin/send_mail.php on line 30
+[31-Mar-2022 09:01:34 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/taurius/public_html/tpo/admin/index.php on line 13
+[31-Mar-2022 09:01:34 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/taurius/public_html/tpo/admin/index.php on line 14
+[31-Mar-2022 09:01:47 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/taurius/public_html/tpo/admin/index.php on line 13
+[31-Mar-2022 09:01:47 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/taurius/public_html/tpo/admin/index.php on line 14
+[31-Mar-2022 09:02:07 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/taurius/public_html/tpo/admin/index.php on line 13
+[31-Mar-2022 09:02:07 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/taurius/public_html/tpo/admin/index.php on line 14
+[01-Apr-2022 00:16:32 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/taurius/public_html/tpo/admin/send_mail.php on line 30
+[01-Apr-2022 00:17:31 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/taurius/public_html/tpo/admin/send_mail.php on line 30
+[01-Apr-2022 02:04:00 UTC] PHP Warning:  mail(): headers parameter must be string or array in /home/taurius/public_html/tpo/admin/hr.php on line 54
+[01-Apr-2022 02:11:18 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/taurius/public_html/tpo/admin/send_mail.php on line 30
+[01-Apr-2022 02:12:09 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/taurius/public_html/tpo/admin/send_mail.php on line 30
+[01-Apr-2022 02:12:43 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/taurius/public_html/tpo/admin/send_mail.php on line 30
+[01-Apr-2022 02:12:52 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/taurius/public_html/tpo/admin/send_mail.php on line 30
+[01-Apr-2022 02:16:02 UTC] PHP Notice:  Undefined index: student_branch in /home/taurius/public_html/tpo/admin/email.php on line 6
+[01-Apr-2022 02:16:02 UTC] PHP Notice:  Undefined index: student_tenth in /home/taurius/public_html/tpo/admin/email.php on line 6
+[01-Apr-2022 02:16:02 UTC] PHP Notice:  Undefined index: student_inter in /home/taurius/public_html/tpo/admin/email.php on line 6
+[01-Apr-2022 02:16:02 UTC] PHP Notice:  Undefined index: student_grad in /home/taurius/public_html/tpo/admin/email.php on line 6
+[01-Apr-2022 02:23:04 UTC] PHP Notice:  Undefined offset: 1 in /home/taurius/public_html/tpo/admin/send_mail.php on line 10
+[01-Apr-2022 02:23:04 UTC] PHP Warning:  trim() expects parameter 1 to be string, array given in /home/taurius/public_html/tpo/admin/mail/class.phpmailer.php on line 702
+[01-Apr-2022 02:23:04 UTC] PHP Warning:  A non-numeric value encountered in /home/taurius/public_html/tpo/admin/send_mail.php on line 31
+[01-Apr-2022 02:25:14 UTC] PHP Notice:  Undefined offset: 1 in /home/taurius/public_html/tpo/admin/send_mail.php on line 10
+[01-Apr-2022 02:25:14 UTC] PHP Warning:  trim() expects parameter 1 to be string, array given in /home/taurius/public_html/tpo/admin/mail/class.phpmailer.php on line 702
+[01-Apr-2022 02:25:14 UTC] PHP Warning:  A non-numeric value encountered in /home/taurius/public_html/tpo/admin/send_mail.php on line 31
+[01-Apr-2022 02:25:38 UTC] PHP Notice:  Undefined offset: 1 in /home/taurius/public_html/tpo/admin/send_mail.php on line 10
+[01-Apr-2022 02:25:41 UTC] PHP Warning:  A non-numeric value encountered in /home/taurius/public_html/tpo/admin/send_mail.php on line 37
+[01-Apr-2022 02:25:41 UTC] PHP Warning:  A non-numeric value encountered in /home/taurius/public_html/tpo/admin/send_mail.php on line 37
+[01-Apr-2022 02:27:18 UTC] PHP Parse error:  syntax error, unexpected '$em' (T_VARIABLE) in /home/taurius/public_html/tpo/admin/send_mail.php on line 27
+[01-Apr-2022 02:28:27 UTC] PHP Parse error:  syntax error, unexpected '$em' (T_VARIABLE) in /home/taurius/public_html/tpo/admin/send_mail.php on line 27
+[01-Apr-2022 02:29:08 UTC] PHP Parse error:  syntax error, unexpected '$em' (T_VARIABLE) in /home/taurius/public_html/tpo/admin/send_mail.php on line 27
+[01-Apr-2022 02:29:54 UTC] PHP Notice:  Undefined offset: 1 in /home/taurius/public_html/tpo/admin/send_mail.php on line 10
+[01-Apr-2022 02:29:54 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/taurius/public_html/tpo/admin/send_mail.php on line 10
+[01-Apr-2022 02:31:17 UTC] PHP Notice:  Undefined offset: 1 in /home/taurius/public_html/tpo/admin/send_mail.php on line 10
+[01-Apr-2022 02:31:17 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/taurius/public_html/tpo/admin/send_mail.php on line 10
+[01-Apr-2022 08:37:36 UTC] PHP Notice:  Undefined index: student_name in /home/taurius/public_html/tpo/admin/applications.php on line 56
+[01-Apr-2022 08:37:36 UTC] PHP Notice:  Undefined index: student_idno in /home/taurius/public_html/tpo/admin/applications.php on line 57
+[01-Apr-2022 08:37:36 UTC] PHP Notice:  Undefined index: student_email in /home/taurius/public_html/tpo/admin/applications.php on line 58
+[01-Apr-2022 08:37:36 UTC] PHP Notice:  Undefined index: student_branch in /home/taurius/public_html/tpo/admin/applications.php on line 59
+[01-Apr-2022 08:37:36 UTC] PHP Notice:  Undefined index: student_resume in /home/taurius/public_html/tpo/admin/applications.php on line 60
+[01-Apr-2022 08:37:36 UTC] PHP Notice:  Undefined index: student_date in /home/taurius/public_html/tpo/admin/applications.php on line 61
+[01-Apr-2022 08:38:36 UTC] PHP Notice:  Undefined index: student_name in /home/taurius/public_html/tpo/admin/applications.php on line 56
+[01-Apr-2022 08:38:36 UTC] PHP Notice:  Undefined index: student_idno in /home/taurius/public_html/tpo/admin/applications.php on line 57
+[01-Apr-2022 08:38:36 UTC] PHP Notice:  Undefined index: student_email in /home/taurius/public_html/tpo/admin/applications.php on line 58
+[01-Apr-2022 08:38:36 UTC] PHP Notice:  Undefined index: student_branch in /home/taurius/public_html/tpo/admin/applications.php on line 59
+[01-Apr-2022 08:38:36 UTC] PHP Notice:  Undefined index: student_resume in /home/taurius/public_html/tpo/admin/applications.php on line 60
+[01-Apr-2022 08:38:36 UTC] PHP Notice:  Undefined index: student_date in /home/taurius/public_html/tpo/admin/applications.php on line 61
+[01-Apr-2022 08:48:51 UTC] PHP Notice:  Undefined index: student_date in /home/taurius/public_html/tpo/admin/jobs.php on line 56
+[01-Apr-2022 08:48:51 UTC] PHP Notice:  Undefined index: student_date in /home/taurius/public_html/tpo/admin/jobs.php on line 56
+[01-Apr-2022 08:48:51 UTC] PHP Notice:  Undefined index: student_date in /home/taurius/public_html/tpo/admin/jobs.php on line 56
+[01-Apr-2022 08:50:05 UTC] PHP Notice:  Undefined index: student_date in /home/taurius/public_html/tpo/admin/jobs.php on line 56
+[01-Apr-2022 08:50:05 UTC] PHP Notice:  Undefined index: student_date in /home/taurius/public_html/tpo/admin/jobs.php on line 56
+[01-Apr-2022 08:50:05 UTC] PHP Notice:  Undefined index: student_date in /home/taurius/public_html/tpo/admin/jobs.php on line 56
+[01-Apr-2022 08:50:17 UTC] PHP Notice:  Undefined index: student_date in /home/taurius/public_html/tpo/admin/jobs.php on line 59
+[01-Apr-2022 08:50:17 UTC] PHP Notice:  Undefined index: student_date in /home/taurius/public_html/tpo/admin/jobs.php on line 59
+[01-Apr-2022 08:50:17 UTC] PHP Notice:  Undefined index: student_date in /home/taurius/public_html/tpo/admin/jobs.php on line 59
+[01-Apr-2022 08:50:21 UTC] PHP Notice:  Undefined index: student_date in /home/taurius/public_html/tpo/admin/jobs.php on line 59
+[01-Apr-2022 08:50:21 UTC] PHP Notice:  Undefined index: student_date in /home/taurius/public_html/tpo/admin/jobs.php on line 59
+[01-Apr-2022 08:59:41 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/taurius/public_html/tpo/admin/dashboard.php on line 36
+[01-Apr-2022 08:59:41 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/taurius/public_html/tpo/admin/dashboard.php on line 39
+[01-Apr-2022 09:00:55 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/taurius/public_html/tpo/admin/dashboard.php on line 36
+[01-Apr-2022 09:00:55 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/taurius/public_html/tpo/admin/dashboard.php on line 39
+[01-Apr-2022 09:01:47 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/taurius/public_html/tpo/admin/dashboard.php on line 36
+[01-Apr-2022 09:01:47 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/taurius/public_html/tpo/admin/dashboard.php on line 39
+[01-Apr-2022 09:03:13 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/taurius/public_html/tpo/admin/dashboard.php on line 36
+[01-Apr-2022 09:03:13 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/taurius/public_html/tpo/admin/dashboard.php on line 39
+[01-Apr-2022 09:03:54 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/taurius/public_html/tpo/admin/dashboard.php on line 37
+[01-Apr-2022 09:03:54 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/taurius/public_html/tpo/admin/dashboard.php on line 40
+[01-Apr-2022 09:24:50 UTC] PHP Warning:  include(includes/header3.php): failed to open stream: No such file or directory in /home/taurius/public_html/tpo/admin/view.php on line 5
+[01-Apr-2022 09:24:50 UTC] PHP Warning:  include(): Failed opening 'includes/header3.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/taurius/public_html/tpo/admin/view.php on line 5
+[01-Apr-2022 09:24:50 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/taurius/public_html/tpo/admin/view.php on line 8
+[01-Apr-2022 09:24:50 UTC] PHP Notice:  Undefined index: student_id in /home/taurius/public_html/tpo/admin/view.php on line 10
+[01-Apr-2022 09:24:50 UTC] PHP Notice:  Undefined index: student_id in /home/taurius/public_html/tpo/admin/view.php on line 17
+[01-Apr-2022 10:00:29 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/taurius/public_html/tpo/admin/hr.php on line 21
+[01-Apr-2022 10:03:56 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/taurius/public_html/tpo/admin/hr.php on line 14
+[01-Apr-2022 10:04:18 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/taurius/public_html/tpo/admin/hr.php on line 14
+[01-Apr-2022 10:05:04 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/taurius/public_html/tpo/admin/hr.php on line 14
+[01-Apr-2022 10:05:06 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/taurius/public_html/tpo/admin/hr.php on line 14
+[01-Apr-2022 17:44:16 UTC] PHP Warning:  include(includes/header3.php): failed to open stream: No such file or directory in /home/taurius/public_html/tpo/admin/view.php on line 5
+[01-Apr-2022 17:44:16 UTC] PHP Warning:  include(): Failed opening 'includes/header3.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/taurius/public_html/tpo/admin/view.php on line 5
+[01-Apr-2022 17:44:16 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/taurius/public_html/tpo/admin/view.php on line 8
+[01-Apr-2022 17:44:16 UTC] PHP Notice:  Undefined index: student_id in /home/taurius/public_html/tpo/admin/view.php on line 10
+[01-Apr-2022 17:44:16 UTC] PHP Notice:  Undefined index: student_id in /home/taurius/public_html/tpo/admin/view.php on line 17
+[01-Apr-2022 17:44:24 UTC] PHP Warning:  include(includes/header3.php): failed to open stream: No such file or directory in /home/taurius/public_html/tpo/admin/view.php on line 5
+[01-Apr-2022 17:44:24 UTC] PHP Warning:  include(): Failed opening 'includes/header3.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/taurius/public_html/tpo/admin/view.php on line 5
+[01-Apr-2022 17:44:24 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/taurius/public_html/tpo/admin/view.php on line 8
+[01-Apr-2022 17:44:24 UTC] PHP Notice:  Undefined index: student_id in /home/taurius/public_html/tpo/admin/view.php on line 10
+[01-Apr-2022 17:44:24 UTC] PHP Notice:  Undefined index: student_id in /home/taurius/public_html/tpo/admin/view.php on line 17
+[01-Apr-2022 17:44:30 UTC] PHP Warning:  include(includes/header3.php): failed to open stream: No such file or directory in /home/taurius/public_html/tpo/admin/view.php on line 5
+[01-Apr-2022 17:44:30 UTC] PHP Warning:  include(): Failed opening 'includes/header3.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/taurius/public_html/tpo/admin/view.php on line 5
+[01-Apr-2022 17:44:30 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/taurius/public_html/tpo/admin/view.php on line 8
+[01-Apr-2022 17:44:30 UTC] PHP Notice:  Undefined index: student_id in /home/taurius/public_html/tpo/admin/view.php on line 10
+[01-Apr-2022 17:44:30 UTC] PHP Notice:  Undefined index: student_id in /home/taurius/public_html/tpo/admin/view.php on line 17
+[01-Apr-2022 17:45:12 UTC] PHP Warning:  include(includes/header3.php): failed to open stream: No such file or directory in /home/taurius/public_html/tpo/admin/view.php on line 5
+[01-Apr-2022 17:45:12 UTC] PHP Warning:  include(): Failed opening 'includes/header3.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/taurius/public_html/tpo/admin/view.php on line 5
+[01-Apr-2022 17:45:12 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/taurius/public_html/tpo/admin/view.php on line 8
+[01-Apr-2022 17:45:12 UTC] PHP Notice:  Undefined index: student_id in /home/taurius/public_html/tpo/admin/view.php on line 10
+[01-Apr-2022 17:45:12 UTC] PHP Notice:  Undefined index: student_id in /home/taurius/public_html/tpo/admin/view.php on line 17
+[01-Apr-2022 18:08:13 UTC] PHP Warning:  include(includes/header3.php): failed to open stream: No such file or directory in /home/taurius/public_html/tpo/admin/view.php on line 5
+[01-Apr-2022 18:08:13 UTC] PHP Warning:  include(): Failed opening 'includes/header3.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/taurius/public_html/tpo/admin/view.php on line 5
+[01-Apr-2022 18:08:13 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/taurius/public_html/tpo/admin/view.php on line 8
+[01-Apr-2022 18:08:13 UTC] PHP Notice:  Undefined index: student_id in /home/taurius/public_html/tpo/admin/view.php on line 10
+[01-Apr-2022 18:08:13 UTC] PHP Notice:  Undefined index: student_id in /home/taurius/public_html/tpo/admin/view.php on line 17
+[01-Apr-2022 18:09:26 UTC] PHP Warning:  include(includes/header3.php): failed to open stream: No such file or directory in /home/taurius/public_html/tpo/admin/view.php on line 5
+[01-Apr-2022 18:09:26 UTC] PHP Warning:  include(): Failed opening 'includes/header3.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/taurius/public_html/tpo/admin/view.php on line 5
+[01-Apr-2022 18:09:26 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/taurius/public_html/tpo/admin/view.php on line 8
+[01-Apr-2022 18:09:26 UTC] PHP Notice:  Undefined index: student_id in /home/taurius/public_html/tpo/admin/view.php on line 17
+[01-Apr-2022 18:10:01 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/taurius/public_html/tpo/admin/view.php on line 8
+[01-Apr-2022 18:10:01 UTC] PHP Notice:  Undefined index: student_id in /home/taurius/public_html/tpo/admin/view.php on line 17
+[01-Apr-2022 18:16:04 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/taurius/public_html/tpo/admin/view.php on line 8
+[01-Apr-2022 18:16:04 UTC] PHP Notice:  Undefined index: student_id in /home/taurius/public_html/tpo/admin/view.php on line 17
+[01-Apr-2022 18:16:13 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/taurius/public_html/tpo/admin/view.php on line 8
+[01-Apr-2022 18:16:13 UTC] PHP Notice:  Undefined index: student_id in /home/taurius/public_html/tpo/admin/view.php on line 17
+[01-Apr-2022 18:16:22 UTC] PHP Notice:  session_start(): A session had already been started - ignoring in /home/taurius/public_html/tpo/admin/view.php on line 8
+[01-Apr-2022 18:16:22 UTC] PHP Notice:  Undefined index: student_id in /home/taurius/public_html/tpo/admin/view.php on line 17
